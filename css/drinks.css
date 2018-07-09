@@ -1,0 +1,43 @@
+#ingredients li{
+  list-style-type: none;
+}
+body{
+  background:url(http://backgroundcheckall.com/wp-content/uploads/2017/12/turquoise-background-8.jpg);
+  width: auto;
+  height: auto;
+}
+
+#allison{
+display: block;
+height: 416px;
+width: 35%;
+border-radius: 95px;
+margin-left: 55rem;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+  color:#bf172c;
+  font-size: 50px;
+  margin-top: -26rem;
+  margin-left: 19rem;
+}
+
+
+#ingredients{
+  width:40%;
+  font-family: 'Permanent Marker', cursive;
+  color: #1d2508fc;
+}
+#glass{
+  color:#1d2508fc;
+  font-family: 'Permanent Marker', cursive;
+}
+#drinkType{
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+}
+
+p{
+  font-family: 'Neucha';
+  color: #1d2508fc;
+}
